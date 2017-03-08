@@ -7,7 +7,7 @@
 <body>
 
 
- <form action="result.php" method="post" name="formulaire">
+ <form action="result2.php" method="post" name="formulaire">
  	<tr>
  		<td colspan="3">Envoyer un message</td>
  	</tr>
@@ -41,7 +41,7 @@
  		</td>
  		<td width="41%">
  			<center>
- 			<input type="submit" name="Submit" action="result.php" value="Envoyer">
+ 			<input type="submit" name="Submit" action="result2.php" value="Envoyer">
  			</center>
  		</td>
  	</tr>					
